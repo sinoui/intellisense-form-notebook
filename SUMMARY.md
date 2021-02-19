@@ -1,3 +1,3 @@
-# Table of content
+# 智能表单用户手册
 
-- [First Chapter](chapter1.md)
+- [仪表盘](dashboard/README.md)
