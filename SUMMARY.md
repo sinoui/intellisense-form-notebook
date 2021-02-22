@@ -15,6 +15,7 @@
   - [新建节点和路由](flow/create-node-and-route.md)
   - [设置节点负责人](flow/node-director-config.md)
   - [节点操作权限](flow/node-operation-config.md)
+  - [流转规则](flow/circulation-rules.md)
 
 ---
 
