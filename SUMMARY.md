@@ -13,6 +13,7 @@
 
 - [流程设计](flow/README.md)
   - [新建节点和路由](flow/create-node-and-route.md)
+  - [设置节点负责人](flow/node-director-config.md)
 
 ---
 
