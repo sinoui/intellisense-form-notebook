@@ -18,3 +18,7 @@
 ---
 
 - [仪表盘](dashboard/README.md)
+  - [数据组件](dashboard/dashboard-chart.md)
+    - [图表的应用](dashboard/chart.md)
+  - [文本组件](dashboard/text.md)
+  - [筛选组件](dashboard/filter.md)
