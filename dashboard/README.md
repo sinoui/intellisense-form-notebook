@@ -1,1 +1,19 @@
 # 仪表盘
+
+仪表盘用来对已发布的表单产生的数据进行查看、分析和处理。
+
+## 设置步骤
+
+**`应用`** >> **`新建仪表盘`** >> **`数据组件`**
+
+![设置步骤](E:\gitee-space\intellisense-form-notebook\dashboard\images\step.gif)
+
+## 效果查看
+
+![效果查看](E:\gitee-space\intellisense-form-notebook\dashboard\images\view.gif)
+
+**本章内容：**
+
+1. [数据组件](dashboard-chart.md)
+2. [文本组件](text.md)
+3. [筛选组件](filter.md)
