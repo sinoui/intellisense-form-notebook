@@ -6,14 +6,16 @@
 
 **`应用`** >> **`新建仪表盘`** >> **`数据组件`**
 
-![设置步骤](E:\gitee-space\intellisense-form-notebook\dashboard\images\step.gif)
+![设置步骤](./images/step.gif)
 
 ## 效果查看
 
-![效果查看](E:\gitee-space\intellisense-form-notebook\dashboard\images\view.gif)
+![效果查看](./images/view.gif)
 
 **本章内容：**
 
 1. [数据组件](dashboard-chart.md)
 2. [文本组件](text.md)
 3. [筛选组件](filter.md)
+4. [仪表盘样式](theme.md)
+5. [仪表盘发布](publish.md)
