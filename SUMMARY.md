@@ -16,6 +16,7 @@
   - [设置节点负责人](flow/node-director-config.md)
   - [节点操作权限](flow/node-operation-config.md)
   - [流转规则](flow/circulation-rules.md)
+  - [流程管理(多流程)](flow/flow-manage.md)
 
 ---
 
