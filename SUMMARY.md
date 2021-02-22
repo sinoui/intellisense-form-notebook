@@ -20,6 +20,10 @@
 
 ---
 
+- [流程应用](flow/flow-apply.md)
+
+---
+
 - [仪表盘](dashboard/README.md)
   - [数据组件](dashboard/dashboard-chart.md)
     - [图表的应用](dashboard/chart.md)
