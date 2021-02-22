@@ -29,3 +29,5 @@
     - [图表的应用](dashboard/chart.md)
   - [文本组件](dashboard/text.md)
   - [筛选组件](dashboard/filter.md)
+  - [仪表盘样式](dashboard/theme.md)
+  - [仪表盘发布](dashboard/publish.md)
