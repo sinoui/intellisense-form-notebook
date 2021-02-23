@@ -14,6 +14,8 @@
     - [日期选择](formDesigner/datePicker.md)
     - [时间选择](formDesigner/timePicker.md)
     - [日期时间选择](formDesigner/datetimePicker.md)
+  - [选项关联](formDesigner/option-rely-config.md)
+
 ---
 
 - [流程设计](flow/README.md)
