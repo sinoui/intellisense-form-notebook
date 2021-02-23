@@ -17,6 +17,7 @@
   - [选项关联](formDesigner/option-rely-config.md)
   - [公式](formDesigner/expression.md)
   - [表单发布](formDesigner/publish.md)
+  - [数据联动](formDesigner/data-rely-config.md)
 
 ---
 
