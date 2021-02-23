@@ -15,6 +15,8 @@
     - [时间选择](formDesigner/timePicker.md)
     - [日期时间选择](formDesigner/datetimePicker.md)
   - [选项关联](formDesigner/option-rely-config.md)
+  - [公式](formDesigner/expression.md)
+  - [表单发布](formDesigner/publish.md)
 
 ---
 
