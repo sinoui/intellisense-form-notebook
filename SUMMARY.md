@@ -28,8 +28,12 @@
     - [分组标签](formDesigner/groupLabel.md)
     - [分割线](formDesigner/divider.md)
     - [说明文字](formDesigner/helperText.md)
-  
   - [表单布局](formDesigner/form.md)
+  - [公式](formDesigner/expression.md)
+  - [表单发布](formDesigner/publish.md)
+  - [选项关联](formDesigner/option-rely-config.md)
+  - [数据联动](formDesigner/data-rely-config.md)
+
 ---
 
 - [流程设计](flow/README.md)
