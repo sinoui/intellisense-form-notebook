@@ -14,7 +14,7 @@
 
 通过拖拽添加流程节点，选中节点，可修改节点名称。
 
-![添加节点](./images/flow-designer_node.png)
+![添加节点](./images/flow-designer_node.gif)
 
 ### 设置路由
 
