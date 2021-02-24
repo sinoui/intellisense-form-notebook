@@ -6,15 +6,15 @@
 
 - 起草节点的负责人有草稿、待办、已办和查询列表权限
 
-  ![列表权限/所有](./images/list-authy_all.jpg)
+  ![列表权限/所有](./images/list-authy_all.png)
 
 - 除起草节点外的流程节点负责人有待办、已办和查询列表权限
 
-  ![列表权限/无草稿](./images/list-authy_no_draft.jpg)
+  ![列表权限/无草稿](./images/list-authy_no_draft.png)
 
 - 表单发布时设置的`数据查看人员`只有查询列表权限
 
-  ![查询列表](./images/search-list.jpg)
+  ![查询列表](./images/search-list.png)
 
 ## 数据填报
 

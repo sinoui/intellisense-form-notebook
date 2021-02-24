@@ -34,6 +34,7 @@
   - [选项关联](formDesigner/option-rely-config.md)
   - [数据联动](formDesigner/data-rely-config.md)
   - [打印输出](formDesigner/print.md)
+    - [打印模板](formDesigner/template.md)
   - [表单发布](formDesigner/publish.md)
 
 ---
