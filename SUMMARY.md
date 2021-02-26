@@ -4,6 +4,10 @@
 
 ---
 
+- [快速入门](case/business.md)
+
+---
+
 - [表单设计](formDesigner/README.md)
   - [新建表单](formDesigner/create-form.md)
   - [字段](formDesigner/fields.md)
@@ -48,11 +52,8 @@
 
 ---
 
-- [流程应用](flow/flow-apply.md)
-
----
-
 - [仪表盘](dashboard/README.md)
+
   - [数据组件](dashboard/dashboard-chart.md)
     - [图表的应用](dashboard/chart.md)
   - [文本组件](dashboard/text.md)
@@ -62,5 +63,6 @@
 
 ---
 
-- [表单案例]()
-  - [出差审批](case/business.md)
+- [流程应用](flow/flow-apply.md)
+
+---
